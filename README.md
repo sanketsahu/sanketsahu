@@ -5,9 +5,9 @@ Built a QBasic imitation of MS-DOS to trick people with C:/> prompts at the age 
 
 
 - 🔭 I’m currently working on [BuilderX](https://BuilderX.io)
-- 🌱 I’m currently learning Product building. 
-- 👯 I’m looking to collaborate on JavaScript and React.
-- 🤔 I’m looking for help with Product Ownership, Graphic Design
+- 🌱 I’m currently learning about Product building & Scaling a company with quality.
+- 👯 I’m looking to collaborate on JavaScript, React & Tech Entrepreneurship
+- 🤔 I’m looking for help with Product Building, Graphic Design (crazy landing page)
 - 💬 Ask me about: Building a company from scratch, Code & Architecture, a bit of UI & UX
 - 📫 How to reach me: https://geekyants.com/sanket
 - 😄 Pronouns: he/him
