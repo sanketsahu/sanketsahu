@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Sanket. Thanks for dropping by! I like to Code and build Products for Designers & Developers. I co-founded GeekyAnts and currently leading it along with other [great leaders](https://geekyants.com/team). I'm in love with React Native and Flutter. Addicted to ~~wanderlust~~ working from home, wannabe backpacker (2020) and love to strum the guitar to Prateek Kuhad tunes. You can find me at ~~events like Chain React and React Native Europe~~ online meetups and conferences like React Europe, AwesomeConf, React Native Remote and my personal coding streams.
+I am Sanket. Thanks for dropping by! I like to Code and build Products for Designers & Developers. I co-founded [GeekyAnts](https://geekyants.com) and currently leading it along with other [great leaders](https://geekyants.com/team). I'm in love with React Native and Flutter. Addicted to ~~wanderlust~~ working from home, wannabe backpacker (2020) and love to strum the guitar to Prateek Kuhad tunes. You can find me at ~~events like Chain React and React Native Europe~~ online meetups and conferences like React Europe, AwesomeConf, React Native Remote and my personal coding streams.
 
 
 - 🔭  I’m currently working on [BuilderX](https://BuilderX.io)
