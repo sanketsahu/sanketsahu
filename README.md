@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Built a QBasic imitation of MS-DOS to trick people with C:/> prompts at the age of 8, I have come a long way since and identify myself as an Open Source guy who loves to experiment with new tech. I live to break it, hack it, and build it. Currently in love with React Native and Flutter. Addicted to wanderlust, wannabe backpacker and love to strum the guitar to Prateek Kuhad tunes. You can find me at events like Chain React and React Native Europe.
+I am Sanket. Thanks for dropping by! I like to Code, build Products for Designers & Developers. I'm currently in love with React Native and Flutter. Addicted to ~~wanderlust~~ working from home, wannabe backpacker (2020) and love to strum the guitar to Prateek Kuhad tunes. You can find me at ~~events like Chain React and React Native Europe~~ online meetups and conferences like React Europe, AwesomeConf and React Native Remote and my personal coding streams.
 
 
 - 🔭  I’m currently working on [BuilderX](https://BuilderX.io)
@@ -12,3 +12,5 @@ Built a QBasic imitation of MS-DOS to trick people with C:/> prompts at the age 
 - 📫  How to reach me: https://geekyants.com/sanket
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: Building an RV right now!
+
+<!-- Built a QBasic imitation of MS-DOS to trick people with C:/> prompts at the age of 8, I have come a long way since and identify myself as an Open Source guy who loves to experiment with new tech. I live to break it, hack it, and build it.  -->
