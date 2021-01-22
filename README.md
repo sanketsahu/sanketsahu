@@ -9,7 +9,7 @@ I am Sanket. Thanks for dropping by! I like to Code and build Products for Desig
 - 👯  I’m looking to collaborate on JavaScript, React & Tech Entrepreneurship
 - 🤔  I’m looking for help with Product Building, Graphic Design (crazy landing pages)
 - 💬  Ask me about: Building a company from scratch, Code & Architecture, a bit of UI & UX
-- 📫  How to reach me: https://geekyants.com/sanket
+- 📫  How to reach me: https://sanket.info
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: Building an RV right now!
 
